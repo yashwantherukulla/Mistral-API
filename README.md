@@ -1,4 +1,4 @@
-# Mistral API Docker Setup
+# Local Host Mistral-7B API with Docker
 
 This project sets up a Docker container to run a FastAPI application that uses the Mistral AI model for text generation. The application is designed to handle conversational queries and maintain a chat history.
 
